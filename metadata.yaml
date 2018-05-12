@@ -1,0 +1,33 @@
+_repo: Nothing-But-the-Truth_43916
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43916-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Isham, Frederic Stewart
+    aliases:
+    - Isham, Frederic S. (Frederic Stewart)
+    - Isham, F. S. (Frederic Stewart)
+    - Isham, Frederick S. (Frederick Stewart)
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '3515'
+    url: http://www.gutenberg.org/2009/agents/3515
+description: ''
+gutenberg_issued: '2013-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43916'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Truthfulness and falsehood -- Fiction'
+- !lcc 'PS'
+title: Nothing But the Truth
+url: http://www.gutenberg.org/ebooks/43916
